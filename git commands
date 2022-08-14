@@ -8,3 +8,6 @@ git commit
 git reset --hard
 git checkout
 git mv
+git branch <nome>
+git branch -d
+git checkout
