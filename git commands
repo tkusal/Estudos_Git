@@ -14,3 +14,6 @@ git checkout
 git merge
 git stash
 git stash list
+git stash apply <id>
+git stash clear
+git stash drop <id>
