@@ -1,3 +1,4 @@
 ﻿Aprendendo e treinando Git
 
 Testando alterações git pull
+Testando alterações git push
