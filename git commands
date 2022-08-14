@@ -1,0 +1,10 @@
+git init
+git clone
+git add
+git rm
+git pull
+git push
+git commit
+git reset --hard
+git checkout
+git mv
