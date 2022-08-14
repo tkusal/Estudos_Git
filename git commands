@@ -11,3 +11,4 @@ git mv
 git branch <nome>
 git branch -d
 git checkout
+git merge
