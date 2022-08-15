@@ -1,20 +1,26 @@
-git init
-git clone
-git add
-git rm
-git pull
-git push
-git commit
-git reset --hard
-git checkout
-git mv
-git branch <nome>
-git branch -d
-git checkout
-git merge
-git stash
-git stash list
-git stash apply <id>
-git stash clear
-git stash drop <id>
+git init - Inicializa um novo repositório
+git clone - Download de um repositório existente para maquina local
+git add - Adiciona os arquivos alterados para área de staging. se utiliza . adicionará todos os arquivos
+git rm - exclui um arquivo
+git reset - Desfaz as alterações nos arquvos locais desfazendo o ultimo commit
+git diff - Exibi a diferença entre dois commits ou entre o commit e seu repositorio
+git status - cheaca o status da área de staging e do local de trabalho
+git pull - baixa os updates do repositorio
+git push - envia updates pro repositorio
+git commit - Usado para commitar arquivos do ambiente local
+git log - usando para ver o historico de commits
+git mv - move/renomeia um arquivo
+git branch lista todas as branches
+git branch <nome> - cria uma nova branch
+git branch -d - deleta uma branch
+git branch - m <novo_nome> - renomeia o branch ativo
+git checkout - muda de branch
+git checkout -b <nome> - cria um novo branch e ja muda pra ele
+git merge - faz o merge de um branch pro branch ativo
+git stash - remove e envia "para lixeira" as alterações não commitadas  
+git stash list - listas as stashs criadas na "lixeira"
+git stash apply <id> - aplica uma das stash
+git stash clear - limpa a "lixeira"
+git stash drop <id> - remove da "lixeira" um dos stash criados
 git tag -a <nome> -m <msg>
+git tag
