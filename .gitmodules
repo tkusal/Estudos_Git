@@ -1,0 +1,3 @@
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/tkusal/Estudo_Git_Submodule.git

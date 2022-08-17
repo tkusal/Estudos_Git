@@ -25,3 +25,9 @@ git stash drop <id> - remove da "lixeira" um dos stash criados
 git tag -a <nome> -m <msg> - criar uma nova tag
 git tag - exibir tags
 git push origin --tags - Enviar todas as tags pro repositorio
+git fetch - Atualizar branchs e tags novas que podem não estar sendo mapeados ainda - Ao identificar o branch e dar checkout nele, passa a exibir no git checkout
+git remote -v - Listar as origens de repositorios
+git remot rm origin - Remover as origins
+git remote add - Adicionar novo repositorio
+git submodule add - Adicionar Submodulo
+git submodule  -listar submodulos
