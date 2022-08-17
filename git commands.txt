@@ -3,6 +3,7 @@ git clone - Download de um repositório existente para maquina local
 git add - Adiciona os arquivos alterados para área de staging. se utiliza . adicionará todos os arquivos
 git rm - exclui um arquivo
 git reset - Desfaz as alterações nos arquvos locais desfazendo o ultimo commit
+git reset --hard <hash do reflog> - voltar ou avançar os passos especificos da hash do reflog
 git show - Exibe historico do branch ativo
 git diff - Usado para ver diferença entre dois branches ou arquivos
 git diff HEAD:<nome do arquivo> <nome do arquivo> - diferença entre dois arquivos, sendo o primeiro no repositorio e o segundo local.
@@ -10,8 +11,10 @@ git status - cheaca o status da área de staging e do local de trabalho
 git pull - baixa os updates do repositorio
 git push - envia updates pro repositorio
 git commit - Usado para commitar arquivos do ambiente local
-git log - usando para ver o historico de commits
+git log - usando para ver o historico de commits no branch
+git reflog - Log completo que mapeia todos os passos no repositorio, inclusive checkouts. reflogs ficam salvos até expirar. Tempo padrão de 30dias.
 git shortlog - log resumido do projeto
+git clean - limpar todos os arquivos untracked
 git mv - move/renomeia um arquivo
 git branch lista todas as branches
 git branch <nome> - cria uma nova branch
@@ -35,3 +38,9 @@ git remote add - Adicionar novo repositorio
 git submodule add - Adicionar Submodulo
 git submodule  -listar submodulos
 git push --recurse-submodules=on-demand - Push no submodulos
+git gc - "garbage collector": identifica arquivos que não são mais necessários e os exclui
+git fsck - File System Check - Verifica a integridade dos arquivos e sua conectividade, verifica corrupção, etc
+git archive --format zip -- output master_files.zip master  -  Fazer backup do repositorio em zip
+git rebase <branch definitiva> <branch privada> -i - reaplica os commits em cima de outro branch - boas praticas de uso para private_branch
+    squash - remover commit que não tem necessidade
+    reword - reeescrever a descrição do commit
