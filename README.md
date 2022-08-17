@@ -9,6 +9,7 @@ Repo para testes e estudos de Git
 ###### H6
 
 **texto me negrito**, texto sem negrito, __texto em negrito__
+
 *texto em italico*, texto sem italico,  _texto em italico_
 
 ### Lista não ordenada
@@ -24,3 +25,7 @@ Repo para testes e estudos de Git
     2. Sub-item 2
 2. Item 2
 3. Item 3
+
+### Incluindo Imagem local
+
+![Logo Git e GitHub - Teste TextAlt](img/Git-e-GitHub.png)
