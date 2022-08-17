@@ -1,9 +1,9 @@
 # Estudos_Git
 Repo para testes e estudos de Git
 
-# Testando os mardowns
+## Testando os mardowns
 
-## Títulos
+### Títulos
 "#" H1 <br>
 "##" H2 <br>
 "###" H3 <br>
