@@ -2,3 +2,5 @@
 
 Testando alterações git pull
 Testando alterações git push
+
+Testando tag v1.0
