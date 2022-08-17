@@ -11,4 +11,16 @@ Repo para testes e estudos de Git
 **texto me negrito**, texto sem negrito, __texto em negrito__
 *texto em italico*, texto sem italico,  _texto em italico_
 
+### Lista não ordenada
 
+* Item 1
+* Item 2
+* Item 3
+
+### Lista ordenada
+
+1. Item 1
+    1. Sub-item 1
+    2. Sub-item 2
+2. Item 2
+3. Item 3
