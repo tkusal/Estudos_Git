@@ -17,7 +17,7 @@ Repo para testes e estudos de Git
 ### Inserindo links
 
 [Teste link - Google](https://google.com) <br>
-[Tag de link externo](https://www.loremipzum.com/pt/)
+[Tag de link externo](https://www.loremipzum.com/pt/) <br>
 [![Imagem com Link](https://pngimg.com/uploads/github/github_PNG70.png)](https://github.com/tkusal)
 
 ### Lista não ordenada
@@ -33,6 +33,14 @@ Repo para testes e estudos de Git
     2. Sub-item 2
 2. Item 2
 3. Item 3
+
+### Inserindo código (específico do GitHub)
+
+'''jacascript
+function soma(a, b) {
+    return a + b;
+}
+'''
 
 ### Incluindo Imagem local
 
