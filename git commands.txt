@@ -31,3 +31,4 @@ git remot rm origin - Remover as origins
 git remote add - Adicionar novo repositorio
 git submodule add - Adicionar Submodulo
 git submodule  -listar submodulos
+git push --recurse-submodules=on-demand - Push no submodulos
