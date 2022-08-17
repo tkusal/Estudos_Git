@@ -8,7 +8,7 @@ Repo para testes e estudos de Git
 ##### H5
 ###### H6
 
-**texto me negrito** ou __texto em negrito__
-*texto em italico*  ou  _texto em italico_
+**texto me negrito**, texto sem negrito, __texto em negrito__
+*texto em italico*, texto sem italico,  _texto em italico_
 
 
