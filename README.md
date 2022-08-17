@@ -42,6 +42,14 @@ function soma(a, b) {
 }
 ```
 
+### Task List (Exclusivo do GitHub)
+
+- [x] Tarefa concluída 1
+- [] Tarefa não concluída 1
+- [] Tarefa não concluída 2
+- [x] Tarefa concluída 2
+
+
 ### Incluindo Imagem local
 
 ![Logo Git e GitHub - Teste TextAlt](img/Git-e-GitHub.png)
