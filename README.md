@@ -36,7 +36,7 @@ Repo para testes e estudos de Git
 
 ### Inserindo código (específico do GitHub)
 
-```jacascript
+```javascript
 function soma(a, b) {
     return a + b;
 }
