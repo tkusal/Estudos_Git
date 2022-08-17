@@ -45,8 +45,8 @@ function soma(a, b) {
 ### Task List (Exclusivo do GitHub)
 
 - [x] Tarefa concluída 1
-- [] Tarefa não concluída 1
-- [] Tarefa não concluída 2
+- [ ] Tarefa não concluída 1
+- [ ] Tarefa não concluída 2
 - [x] Tarefa concluída 2
 
 
