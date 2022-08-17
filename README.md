@@ -3,7 +3,7 @@ Repo para testes e estudos de Git
 
 ## Treinando markdown no README
 
-"#" H1
+"#" H1 <br>
 "##" H2
 "###" H3
 "####" H4
