@@ -3,12 +3,15 @@ git clone - Download de um repositório existente para maquina local
 git add - Adiciona os arquivos alterados para área de staging. se utiliza . adicionará todos os arquivos
 git rm - exclui um arquivo
 git reset - Desfaz as alterações nos arquvos locais desfazendo o ultimo commit
-git diff - Exibi a diferença entre dois commits ou entre o commit e seu repositorio
+git show - Exibe historico do branch ativo
+git diff - Usado para ver diferença entre dois branches ou arquivos
+git diff HEAD:<nome do arquivo> <nome do arquivo> - diferença entre dois arquivos, sendo o primeiro no repositorio e o segundo local.
 git status - cheaca o status da área de staging e do local de trabalho
 git pull - baixa os updates do repositorio
 git push - envia updates pro repositorio
 git commit - Usado para commitar arquivos do ambiente local
 git log - usando para ver o historico de commits
+git shortlog - log resumido do projeto
 git mv - move/renomeia um arquivo
 git branch lista todas as branches
 git branch <nome> - cria uma nova branch
