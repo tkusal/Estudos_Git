@@ -36,11 +36,11 @@ Repo para testes e estudos de Git
 
 ### Inserindo código (específico do GitHub)
 
-'''jacascript
+```jacascript
 function soma(a, b) {
     return a + b;
 }
-'''
+```
 
 ### Incluindo Imagem local
 
