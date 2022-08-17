@@ -29,3 +29,7 @@ Repo para testes e estudos de Git
 ### Incluindo Imagem local
 
 ![Logo Git e GitHub - Teste TextAlt](img/Git-e-GitHub.png)
+
+### Incluindo imagem externa
+
+![TextAlt](https://encontreseucodigo.com.br/wp-content/uploads/2021/09/gitHub-e-git-encontre-seu-codigo.png)
