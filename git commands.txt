@@ -22,5 +22,6 @@ git stash list - listas as stashs criadas na "lixeira"
 git stash apply <id> - aplica uma das stash
 git stash clear - limpa a "lixeira"
 git stash drop <id> - remove da "lixeira" um dos stash criados
-git tag -a <nome> -m <msg>
-git tag
+git tag -a <nome> -m <msg> - criar uma nova tag
+git tag - exibir tags
+git push origin --tags - Enviar todas as tags pro repositorio
