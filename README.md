@@ -11,7 +11,7 @@ Repo para testes e estudos de Git
 "#####" H5 <br>
 "######" H6 <br>
 
-## Negrito / Itálico
+### Negrito / Itálico
 
 **texto me negrito**, texto sem negrito, __texto em negrito__
 
