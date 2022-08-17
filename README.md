@@ -4,11 +4,11 @@ Repo para testes e estudos de Git
 ## Treinando markdown no README
 
 "#" H1 <br>
-"##" H2
-"###" H3
-"####" H4
-"#####" H5
-"######" H6
+"##" H2 <br>
+"###" H3 <br>
+"####" H4 <br>
+"#####" H5 <br>
+"######" H6 <br>
 
 **texto me negrito**, texto sem negrito, __texto em negrito__
 
