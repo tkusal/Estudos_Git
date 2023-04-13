@@ -19,8 +19,8 @@ Repo para testes e estudos de Git
 
 ### Inserindo links
 
-[Teste link - Google](https://google.com) <br>
 [Tag de link externo](https://www.loremipzum.com/pt/) <br>
+
 Imagem com link: <br>
 [![Imagem com Link](https://pngimg.com/uploads/github/github_PNG70.png)](https://github.com/tkusal)
 
